@@ -35,16 +35,7 @@ Este projeto é um aplicativo simples desenvolvido em Java, utilizando a bibliot
 
 ## 💻 Tecnologias Utilizadas
 - **Java**
-- **Swing** (biblioteca gráfica)
-
----
-
-## 📂 Estrutura do Código
-
-O código está organizado da seguinte forma:
-- **Main Class:** Inicia o programa e exibe a interface gráfica.
-- **Validações e Tratamento:** Implementados diretamente nos eventos associados ao botão "Cadastrar".
-- **Exceção Personalizada:** Uma classe específica criada para validar o e-mail.
+- **Swing** (biblioteca gráfica - WindowBuilder - criação de JFrame)
 
 ---
 
